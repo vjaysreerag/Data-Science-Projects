@@ -1,0 +1,5 @@
+License: 
+Data files © Original Authors
+http://dados.gov.br/dataset/sistema-nacional-de-informacoes-florestais-snif
+
+kaggle datasets download -d gustavomodelli/forest-fires-in-brazil
