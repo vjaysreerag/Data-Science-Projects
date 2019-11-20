@@ -1,0 +1,3 @@
+I got the data set from a client in Freelancer.com. The client want me to conduct time series analysis, seasonality and build a linear regression and
+and quadratic regression model to identify which among them is a best prerdictive model. They had a project to finish for their client. But soon they 
+lost the assignment and my client did not want the project anymore. I deny the public use of this dataset.
